@@ -1,0 +1,10 @@
+smartapi-python
+pyotp
+pandas
+pandas_ta
+google-genai
+rich
+requests
+python-dotenv
+numpy
+groq
